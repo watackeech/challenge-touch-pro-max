@@ -17,6 +17,7 @@
     "@nuxtjs/web-vitals":"latest"
   },
   "dependencies": {
-    "pnpm": "^8.11.0"
+    "pnpm": "^8.11.0",
+    "@nuxtjs/web-vitals":"latest"
   }
 }
