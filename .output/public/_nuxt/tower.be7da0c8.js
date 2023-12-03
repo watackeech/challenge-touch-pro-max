@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a as c}from"./entry.d2734b4c.js";const s={},n=c("h1",null,"放課後ワクワクみらいランドタワーへようこそ！",-1),r=[n];function _(a,l){return t(),o("div",null,r)}const f=e(s,[["render",_]]);export{f as default};
