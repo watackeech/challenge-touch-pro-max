@@ -11,13 +11,14 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxtjs/web-vitals": "latest",
     "nuxt": "^3.8.2",
     "vue": "^3.3.8",
-    "vue-router": "^4.2.5",
-    "@nuxtjs/web-vitals":"latest"
+    "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "pnpm": "^8.11.0",
-    "@nuxtjs/web-vitals":"latest"
+    "@nuxt/image": "^1.1.0",
+    "@nuxtjs/web-vitals": "latest",
+    "pnpm": "^8.11.0"
   }
 }

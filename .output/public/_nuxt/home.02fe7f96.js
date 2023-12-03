@@ -1,1 +1,0 @@
-import{_ as e,v as t,t as o,x as s}from"./entry.af94970f.js";const c={},n=s("h1",null,"Here's the home",-1),r=[n];function _(a,l){return o(),t("div",null,r)}const h=e(c,[["render",_]]);export{h as default};
