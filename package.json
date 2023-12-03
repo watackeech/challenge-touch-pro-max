@@ -13,7 +13,8 @@
     "@nuxt/devtools": "latest",
     "nuxt": "^3.8.2",
     "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "@nuxtjs/web-vitals":"latest"
   },
   "dependencies": {
     "pnpm": "^8.11.0"
