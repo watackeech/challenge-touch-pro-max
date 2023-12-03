@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as s}from"./entry.a88898e5.js";const n={},c=s("h1",null,"Want to start lesson?",-1),a=[c];function r(_,l){return o(),t("div",null,a)}const i=e(n,[["render",r]]);export{i as default};
